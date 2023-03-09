@@ -1,0 +1,155 @@
+[
+    {
+        "_id": 1,
+        "name": "Instant Flat White Coffee",
+        "slots": [
+            "10.00 am - 11.00 am",
+            "11.00 am - 12.00 pm",
+            "12.00 pm - 01.00 pm",
+            "01.00 pm - 02.00 pm",
+            "04.00 pm - 05.00 pm",
+            "05.00 pm - 06.00 pm",
+            "06.00 pm - 07.00 pm",
+            "07.00 pm - 08.00 pm",
+            "08.00 pm - 09.00 pm"
+        ]
+    },
+    {
+        "_id": 2,
+        "name": "Iced Latte Macchiato Coffee",
+        "slots": [
+            "10.00 am - 11.00 am",
+            "11.00 am - 12.00 pm",
+            "12.00 pm - 01.00 pm",
+            "01.00 pm - 02.00 pm",
+            "04.00 pm - 05.00 pm",
+            "05.00 pm - 06.00 pm",
+            "06.00 pm - 07.00 pm",
+            "07.00 pm - 08.00 pm",
+            "08.00 pm - 09.00 pm"
+        ]
+    },
+    {
+        "_id": 3,
+        "name": "Dalgona Coffee",
+        "slots": [
+            "10.00 am - 11.00 am",
+            "11.00 am - 12.00 pm",
+            "12.00 pm - 01.00 pm",
+            "01.00 pm - 02.00 pm",
+            "04.00 pm - 05.00 pm",
+            "05.00 pm - 06.00 pm",
+            "06.00 pm - 07.00 pm",
+            "07.00 pm - 08.00 pm",
+            "08.00 pm - 09.00 pm"
+        ]
+    },
+    {
+        "_id": 4,
+        "name": "Creamy Caramel Decaf Latte Coffee",
+        "slots": [
+            "10.00 am - 11.00 am",
+            "11.00 am - 12.00 pm",
+            "12.00 pm - 01.00 pm",
+            "01.00 pm - 02.00 pm",
+            "04.00 pm - 05.00 pm",
+            "05.00 pm - 06.00 pm",
+            "06.00 pm - 07.00 pm",
+            "07.00 pm - 08.00 pm",
+            "08.00 pm - 09.00 pm"
+        ]
+    },
+    {
+        "_id": 5,
+        "name": "Caramel Latte Coffee",
+        "slots": [
+            "10.00 am - 11.00 am",
+            "11.00 am - 12.00 pm",
+            "12.00 pm - 01.00 pm",
+            "01.00 pm - 02.00 pm",
+            "04.00 pm - 05.00 pm",
+            "05.00 pm - 06.00 pm",
+            "06.00 pm - 07.00 pm",
+            "07.00 pm - 08.00 pm",
+            "08.00 pm - 09.00 pm"
+        ]
+    },
+    {
+        "_id": 6,
+        "name": "Smoked Cinnamon Coffee",
+        "slots": [
+            "10.00 am - 11.00 am",
+            "11.00 am - 12.00 pm",
+            "12.00 pm - 01.00 pm",
+            "01.00 pm - 02.00 pm",
+            "04.00 pm - 05.00 pm",
+            "05.00 pm - 06.00 pm",
+            "06.00 pm - 07.00 pm",
+            "07.00 pm - 08.00 pm",
+            "08.00 pm - 09.00 pm"
+        ]
+    },
+    {
+        "_id": 7,
+        "name": "Iced Americano Coffee",
+        "slots": [
+            "10.00 am - 11.00 am",
+            "11.00 am - 12.00 pm",
+            "12.00 pm - 01.00 pm",
+            "01.00 pm - 02.00 pm",
+            "04.00 pm - 05.00 pm",
+            "05.00 pm - 06.00 pm",
+            "06.00 pm - 07.00 pm",
+            "07.00 pm - 08.00 pm",
+            "08.00 pm - 09.00 pm"
+        ]
+    },
+    {
+        "_id": 8,
+        "name": "Iced Au Lait Coffee",
+        "slots": [
+            "06.00 pm - 07.00 pm",
+            "07.00 pm - 08.00 pm",
+            "08.00 pm - 09.00 pm"
+        ]
+    },
+    {
+        "_id": 9,
+        "name": "Shaken Cappuccino Coffee",
+        "slots": [
+            "10.00 am - 11.00 am"
+        ]
+    },
+    {
+        "_id": 10,
+        "name": "Citrus Americano Coffee",
+        "slots": [
+            "10.00 am - 11.00 am",
+            "11.00 am - 12.00 pm",
+            "06.00 pm - 07.00 pm",
+            "07.00 pm - 08.00 pm",
+            "08.00 pm - 09.00 pm"
+        ]
+    },
+    {
+        "_id": 11,
+        "name": "Roasted Almond Coffee",
+        "slots": [
+        ]
+    },
+    {
+        "_id": 12,
+        "name": "White Chocolate Mocha Coffee",
+        "slots": [
+            "10.00 am - 11.00 am",
+            "11.00 am - 12.00 pm",
+            "12.00 pm - 01.00 pm",
+            "01.00 pm - 02.00 pm",
+            "04.00 pm - 05.00 pm",
+            "05.00 pm - 06.00 pm",
+            "06.00 pm - 07.00 pm",
+            "07.00 pm - 08.00 pm",
+            "08.00 pm - 09.00 pm"
+        ]
+    }
+]
